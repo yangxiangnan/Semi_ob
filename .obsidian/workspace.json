@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/0、简介.md",
+                "file": "markdown/markdown.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "0、简介"
+              "title": "markdown"
             }
           }
         ]
@@ -181,9 +181,11 @@
   },
   "active": "29c0421c4aa48e6b",
   "lastOpenFiles": [
+    "markdown/1、教程.md",
+    "markdown/markdown.md",
+    "py/0、简介.md",
     "py/2、变量和字符串.md",
     "py/1、注释和编码.md",
-    "py/0、简介.md",
     "README.md"
   ]
 }
