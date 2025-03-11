@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "ca15a7699a296e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbdfbc653e6ac0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Markdown Table Editor"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "markdown/1、教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "1、教程 的大纲"
             }
           },
           {
@@ -162,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,7 +193,8 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "active": "29c0421c4aa48e6b",
