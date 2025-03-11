@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "markdown/1、教程.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,8 @@
   },
   "active": "29c0421c4aa48e6b",
   "lastOpenFiles": [
-    "markdown/markdown.md",
     "markdown/1、教程.md",
+    "markdown/markdown.md",
     "py/0、简介.md",
     "py/2、变量和字符串.md",
     "py/1、注释和编码.md",
