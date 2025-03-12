@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/0、简介.md",
+                "file": "py/容器.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0、简介"
+              "title": "容器"
+            }
+          }
+        ]
+      },
+      {
+        "id": "afee3a62999566f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88487ac450a76c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Markdown Table Editor"
             }
           }
         ]
@@ -142,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "py/0、简介.md",
+                "file": "py/容器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0、简介 的大纲"
+              "title": "容器 的大纲"
             }
           },
           {
@@ -166,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +197,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "29c0421c4aa48e6b",
+  "active": "88487ac450a76c0c",
   "lastOpenFiles": [
+    "未命名.md",
+    "py/容器.md",
+    "py/3、数据类型.md",
+    "py/0、简介.md",
     "markdown/1、教程.md",
     "2025-03-11.md",
     "markdown/markdown.md",
-    "py/0、简介.md",
     "py/2、变量和字符串.md",
     "py/1、注释和编码.md",
     "README.md"
