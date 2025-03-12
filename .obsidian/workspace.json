@@ -15,26 +15,10 @@
               "state": {
                 "file": "markdown/1、教程.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1、教程"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8889989c80f09551",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b3d84d2c1c8f8fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Markdown Table Editor"
             }
           }
         ]
