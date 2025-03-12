@@ -6,7 +6,6 @@
       {
         "id": "a181fa03190a32ee",
         "type": "tabs",
-        "dimension": 50.10204081632653,
         "children": [
           {
             "id": "29c0421c4aa48e6b",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "b2bcd1a015e672a2",
+        "id": "62f96c56097d077f",
         "type": "tabs",
-        "dimension": 49.89795918367347,
         "children": [
           {
-            "id": "36ce7126ef1b553f",
+            "id": "0d868ec8aeb3aa68",
             "type": "leaf",
             "state": {
               "type": "markdown-table-editor-view",
@@ -199,13 +197,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "36ce7126ef1b553f",
+  "active": "0d868ec8aeb3aa68",
   "lastOpenFiles": [
-    "未命名.md",
-    "py/容器.md",
-    "py/3、数据类型.md",
     "py/0、简介.md",
     "markdown/1、教程.md",
+    "py/3、数据类型.md",
+    "py/容器.md",
+    "未命名.md",
     "2025-03-11.md",
     "markdown/markdown.md",
     "py/2、变量和字符串.md",
