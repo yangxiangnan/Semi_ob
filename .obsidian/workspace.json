@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "cc3de09a51368772",
+        "id": "b024ebb2f438d5b7",
         "type": "tabs",
         "children": [
           {
-            "id": "a41d95f8402f7d92",
+            "id": "5ace126c9163fbd9",
             "type": "leaf",
             "state": {
               "type": "markdown-table-editor-view",
@@ -197,7 +197,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "29c0421c4aa48e6b",
+  "active": "5ace126c9163fbd9",
   "lastOpenFiles": [
     "2025-03-11.md",
     "markdown/1、教程.md",
