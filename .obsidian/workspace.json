@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "62f96c56097d077f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d868ec8aeb3aa68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Markdown Table Editor"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +180,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0d868ec8aeb3aa68",
+  "active": "29c0421c4aa48e6b",
   "lastOpenFiles": [
     "py/0、简介.md",
     "markdown/1、教程.md",
