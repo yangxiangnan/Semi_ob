@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a181fa03190a32ee",
+        "id": "7d5007da892b9be9",
         "type": "tabs",
         "children": [
           {
-            "id": "29c0421c4aa48e6b",
+            "id": "73862a5560aa14f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "py/容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "容器 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "py/容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "容器 的出链列表"
             }
           },
           {
@@ -176,21 +176,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29c0421c4aa48e6b",
+  "active": "73862a5560aa14f4",
   "lastOpenFiles": [
-    "py/0、简介.md",
-    "markdown/1、教程.md",
-    "py/3、数据类型.md",
-    "py/容器.md",
-    "未命名.md",
-    "2025-03-11.md",
-    "markdown/markdown.md",
     "py/2、变量和字符串.md",
     "py/1、注释和编码.md",
-    "README.md"
+    "py/0、简介.md",
+    "markdown/1、教程.md",
+    "py/容器.md",
+    "README.md",
+    "markdown/markdown.md",
+    "url.md",
+    "image/1、图片.md"
   ]
 }
