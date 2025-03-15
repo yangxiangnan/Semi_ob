@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "容器"
             }
+          },
+          {
+            "id": "0a91df4d45037470",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -179,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73862a5560aa14f4",
+  "active": "0a91df4d45037470",
   "lastOpenFiles": [
     "py/2、变量和字符串.md",
     "py/1、注释和编码.md",
