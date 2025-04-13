@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "容器"
             }
+          },
+          {
+            "id": "20b727a147fb3587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程思想/1、函数式.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1、函数式"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73862a5560aa14f4",
+  "active": "20b727a147fb3587",
   "lastOpenFiles": [
+    "markdown/1、教程.md",
+    "编程思想/1、函数式.md",
+    "py/容器.md",
+    "编程思想",
     "py/2、变量和字符串.md",
     "py/1、注释和编码.md",
     "py/0、简介.md",
-    "markdown/1、教程.md",
-    "py/容器.md",
     "README.md",
     "markdown/markdown.md",
     "url.md",
