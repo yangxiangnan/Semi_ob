@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "布局/flexbox.md",
+                "file": "编程思想/1、函数式.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "flexbox"
+              "title": "1、函数式"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "b44594a2438fe613",
   "lastOpenFiles": [
-    "编程思想/1、函数式.md",
     "布局/flexbox.md",
+    "编程思想/1、函数式.md",
     "布局",
     "markdown/1、教程.md",
     "py/容器.md",
