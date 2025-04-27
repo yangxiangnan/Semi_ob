@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "1、函数式"
             }
+          },
+          {
+            "id": "72d1ea81e36cc27b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b44594a2438fe613",
+  "active": "72d1ea81e36cc27b",
   "lastOpenFiles": [
     "布局/flexbox.md",
     "编程思想/1、函数式.md",
