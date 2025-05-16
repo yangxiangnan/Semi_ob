@@ -34,35 +34,19 @@
             }
           },
           {
-            "id": "d34f83494afa3dc0",
+            "id": "6b62d3d05099f625",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "release-notes",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "currentVersion": "1.8.10"
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "0b22826836d4bbb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,8 +205,9 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0b22826836d4bbb2",
+  "active": "6b62d3d05099f625",
   "lastOpenFiles": [
+    "swift",
     "conflict-files-obsidian-git.md",
     "py/0、简介.md",
     "markdown/1、教程.md",
