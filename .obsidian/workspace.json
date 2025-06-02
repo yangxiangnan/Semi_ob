@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "317fbc97da9a6db7",
+    "id": "3c2cab17797b4b08",
     "type": "split",
     "children": [
       {
-        "id": "af66b71cc4b2cbca",
+        "id": "be6b5c8f48ff774e",
         "type": "tabs",
         "children": [
           {
-            "id": "f465b51a33614c57",
+            "id": "33cc870889f57a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,18 +22,18 @@
             }
           },
           {
-            "id": "7323d8dee6901f8b",
+            "id": "56694e1f0f002b4c",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/main.js",
-                "bFile": ".obsidian/plugins/obsidian-git/main.js",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": "HEAD",
                 "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: main.js"
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -43,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "596ead6eccd4fb0c",
+    "id": "650ef36c77e046ed",
     "type": "split",
     "children": [
       {
-        "id": "5e68718afe5e3278",
+        "id": "20806b2d1cc78765",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc9436e4ad1fca3",
+            "id": "7bdf1e87bccbc834",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "2aa352c0e5607f7e",
+            "id": "5e76b1ba63f21209",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "9401581c6857f173",
+            "id": "1e001bc61bad1070",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,22 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "6586f6e087daae42",
+    "id": "5b8155e5c2c0f925",
     "type": "split",
     "children": [
       {
-        "id": "501df7e22fee5806",
+        "id": "0f1fee5463ba60cf",
         "type": "tabs",
         "children": [
           {
-            "id": "29a6050896c9715b",
+            "id": "7404c66eb7736b52",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "装修.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "装修 的反向链接列表"
             }
           },
           {
-            "id": "3423bd62c2ddd8f0",
+            "id": "83f5a159bc719a5f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "装修.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "装修 的出链列表"
             }
           },
           {
-            "id": "39f64096d71530c6",
+            "id": "7a0795031a636144",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,22 +153,22 @@
             }
           },
           {
-            "id": "de9579e726f6cce5",
+            "id": "6b7b4bc4a16d7d97",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "py/容器.md",
+                "file": "装修.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "容器 的大纲"
+              "title": "装修 的大纲"
             }
           },
           {
-            "id": "be23570ef0997535",
+            "id": "a256e78466f733de",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,29 +196,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7323d8dee6901f8b",
+  "active": "a256e78466f733de",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "装修.md",
-    "基础/1、计算机基础.md",
-    "基础",
-    "README.md",
-    "markdown/1、教程.md",
-    "linux/1、操作系统.md",
-    "linux/3、vim.md",
-    "linux/2、操作命令.md",
-    "编程思想/1、函数式.md",
-    "编程思想",
-    "布局/flexbox.md",
-    "布局",
-    "py/容器.md",
     "前滩中叠 524.xlsx",
-    "swift",
-    "py/0、简介.md",
-    "py/3、数据类型.md",
-    "2025-03-11.md",
-    "markdown/markdown.md",
-    "py/2、变量和字符串.md",
-    "py/1、注释和编码.md"
+    "conflict-files-obsidian-git.md",
+    "装修.md"
   ]
 }
