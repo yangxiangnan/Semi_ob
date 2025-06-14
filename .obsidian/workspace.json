@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a181fa03190a32ee",
+        "id": "af66b71cc4b2cbca",
         "type": "tabs",
         "children": [
           {
-            "id": "29c0421c4aa48e6b",
+            "id": "f465b51a33614c57",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "装修.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "装修"
             }
           }
         ]
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "29c0421c4aa48e6b",
+  "active": "f465b51a33614c57",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "编程思想/1、函数式.md",
