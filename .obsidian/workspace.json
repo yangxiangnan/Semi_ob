@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +181,12 @@
   },
   "active": "f465b51a33614c57",
   "lastOpenFiles": [
-    "linux/2、操作命令.md",
-    "linux/1、操作系统.md",
+    "README.md",
     "装修.md",
+    "markdown/1、教程.md",
+    "linux/1、操作系统.md",
+    "linux/3、vim.md",
+    "linux/2、操作命令.md",
     "conflict-files-obsidian-git.md",
     "编程思想/1、函数式.md",
     "编程思想",
@@ -194,12 +196,10 @@
     "前滩中叠 524.xlsx",
     "swift",
     "py/0、简介.md",
-    "markdown/1、教程.md",
     "py/3、数据类型.md",
     "2025-03-11.md",
     "markdown/markdown.md",
     "py/2、变量和字符串.md",
-    "py/1、注释和编码.md",
-    "README.md"
+    "py/1、注释和编码.md"
   ]
 }
